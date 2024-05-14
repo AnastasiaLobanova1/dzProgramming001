@@ -19,6 +19,7 @@ dzProgramming1.iml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+dzProgramming1.iml
 
 ### NetBeans ###
 /nbproject/private/
@@ -26,6 +27,7 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+dzProgramming1.iml
 
 ### VS Code ###
 .vscode/
