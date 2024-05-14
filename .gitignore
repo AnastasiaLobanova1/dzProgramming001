@@ -4,7 +4,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-src/.gitignore
+.gitignore
 dzProgramming1.iml
 
 
@@ -20,7 +20,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 dzProgramming1.iml
-
+.gitignore
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -28,7 +28,7 @@ dzProgramming1.iml
 /nbdist/
 /.nb-gradle/
 dzProgramming1.iml
-
+.gitignore
 ### VS Code ###
 .vscode/
 
