@@ -5,7 +5,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 src/.gitignore
-*.iml/
+dzProgramming1.iml
 
 
 ### Eclipse ###
@@ -33,5 +33,3 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.gitignore/
-*.iml/
