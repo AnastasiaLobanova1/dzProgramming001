@@ -31,5 +31,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.gitignore
-*.iml
+.gitignore/
+*.iml/
